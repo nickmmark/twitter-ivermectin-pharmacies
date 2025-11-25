@@ -68,3 +68,7 @@ South Africa: 1
 * @24Medico__ (6.6k)
 * @Apotheke_Store2 (6.4k)
 
+
+## Limitations
+* This work used a convenience sample of n=99 sites. Would be more comprehensive if expanded.
+* Some sites that are based in the US could conceivably employ social media teams based in India, potentially providing a benign explanation
