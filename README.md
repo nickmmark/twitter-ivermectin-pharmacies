@@ -14,13 +14,13 @@ geotracking disinformation by foreign pharmacies claiming to be based in the US
 ## Results
 ### Summary data
 Actual Location Counts:
-India: 58
-United States: 2
-Nigeria: 2
-Germany: 1
-South Asia: 1
-South Africa: 1
-(Blanks: ~35)
+* India: 58
+* United States: 2
+* Nigeria: 2
+* Germany: 1
+* South Asia: 1
+* South Africa: 1
+* Blank: ~35 (was able to infer location for many of these as above)
 
 | Metric                                | Value              | Notes                                                                                                                                |
 |---------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|
