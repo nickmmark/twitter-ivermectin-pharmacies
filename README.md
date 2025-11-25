@@ -5,11 +5,11 @@ geotracking disinformation by foreign pharmacies claiming to be based in the US
 
 
 ## Methodology
-Identified accounts selling ivermectin products using the search term "ivermectin"
-Search performed on 11/24/2025
-
-Compared stated location with actual location provided by Twitter.
-For each store, analyzed the 
+* Identified accounts selling ivermectin products using the search term "ivermectin"
+ * Search performed on 11/24/2025
+* Compared stated location with actual location provided by Twitter --> identified many pharmacies that claimed to be based in the US, but were in fact based abroad (particularly India)
+* For each store, compared the URL --> identified multiple accounts that link to same account --> was able to identify additional fradulent accounts this way
+* Traced the information about each store using `WHOIS` --> was able to identify additional fraudulent accounts, also found several that tried to hide thier location
 
 ## Results
 ### Summary data
