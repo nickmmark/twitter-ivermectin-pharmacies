@@ -7,6 +7,16 @@ Fradulent accounts identified
 * How many did we discover purely thanks to the WHOIS + redirect investigation?
   * → 13 additional fraudulent US-claimers that were not yet flagged in based on Twitter provided location
 
+
+| Category                        | Count | Examples (Handles)                                                                               |
+|---------------------------------|-------|--------------------------------------------------------------------------------------------------|
+| Claimed: USA/United States      | 16    | @getivermectins, @IvermectinShop, @Medicine_Villa, @Ivermectin12hUS, @Ivermectin__US             |
+| Claimed: Specific US State/City | 7     | @Allhealthdrugs (California), @_GetIvermectin_ (USA but state-like), @Ivermectin_cell (New York) |
+| Claimed: UK                     | 2     | @IvermectinRx (UK), @BIvermectinUK (implied via name)                                            |
+| Verified Among Frauds           | 10    | @getivermectins, @IvermectinShop, @skymeds_store, @medicine_kart, @Ivermectin_Dose               |
+
+
+
 | Category                                                                                                                             | Number of Accounts | % of Total                          | Notes                                                                       |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------|-----------------------------------------------------------------------------|
 | Total accounts                                                                                                                       | 99                 | 100%                                |                                                                             |
