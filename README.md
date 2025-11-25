@@ -50,7 +50,7 @@ geotracking disinformation by foreign pharmacies claiming to be based in the US
 | Claim to be in the United States (any variant of "USA", "United States", "California", "New York", "Denver", "Florida", etc. in bio) | 43                 | 43%                                 | These are the ones explicitly pretending to be US pharmacies                |
 | Fraudulent US-claimers (claim US but are provably not in the US)                                                                     | 40                 | 40% of total 93% of all US-claimers | All evidence points to India (or Nigeria/South Africa in a couple of cases) |
 | Actually based in India (either twitter_Location = India or WHOIS = IN or both)                                            | 71                 | 72%                                 | This is the true operational base for the vast majority                     |
-
+ 
 
 #### Impact of fraudulent accounts
 | Metric                        | All Accounts (99) | Fraudulent US-Claimers (46) | Non-Fraud (53) | Verified Accounts (28)  |
