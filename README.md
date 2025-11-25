@@ -1,2 +1,12 @@
 # twitter-ivermectin-pharmacies
 geotracking disinformation by foreign pharmacies claiming to be based in the US
+
+
+| Metric                                     | All Accounts (99)                                                                                            | Fraudulent US-Claimers (46)               | Non-Fraud (53)                                                 | Verified Accounts (28)  |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------|-------------------------|
+| Total Followers                            | ~170,000                                                                                                     | ~140,000 (82%)                            | ~30,000                                                        | ~110,000 (65% of total) |
+| Average Followers per Account              | 1,717                                                                                                        | 3,043                                     | 567                                                            | 3,929                   |
+| Median Followers                           | 97                                                                                                           | 157                                       | 81                                                             | 2,002                   |
+| Top 5 Accounts (Followers)                 | @skymeds_store (43k) @_Ivermectincure (16k) @Ivermectin_net (13k) @24Medico__ (6.6k) @Apotheke_Store2 (6.4k) | Same as left (all top are fraud/verified) | @ziverdo (4.7k) @Buy_Ivermectin1 (5.3k) @getivermectins (5.3k) | Same as top 5           |
+| Accounts with 1k+ Followers                | 28 (28%)                                                                                                     | 22 (48%)                                  | 6 (11%)                                                        | 22 (79%)                |
+| Zero/Low-Activity Accounts (<10 Followers) | 22 (22%)                                                                                                     | 6 (13%)                                   | 16 (30%)                                                       | 0                       |
