@@ -12,8 +12,7 @@ geotracking disinformation by foreign pharmacies claiming to be based in the US
 * Traced the information about each store using `WHOIS` --> was able to identify additional fraudulent accounts, also found several that tried to hide thier location
 
 ## Results
-### Summary data
-Actual Location Counts:
+#### Where are these accounts located?
 * India: 58
 * United States: 2
 * Nigeria: 2
@@ -22,6 +21,7 @@ Actual Location Counts:
 * South Africa: 1
 * Blank: ~35 (was able to infer location for many of these as above)
 
+#### How many are lying about location?
 | Metric                                | Value              | Notes                                                                                                                                |
 |---------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | Total Accounts                        | 99                 | Includes header row; all appear to be Ivermectin-focused sellers.                                                                    |
@@ -31,7 +31,7 @@ Actual Location Counts:
 | Verified Fraudulent Accounts          | 10 (37% of frauds) | Verified scammers: e.g., @getivermectins, @IvermectinShop.                                                                           |
 | Accounts with Blank Actual Location   | ~35                | Incomplete data; could hide more fraud if investigated.                                                                              |
 
-### Fradulent accounts identified
+#### How were fradulent accounts identified
 * How many accounts fraudulently claim to be in the US, but are in fact based in India?
   * → 40 (93% of everything that pretends to be American)
 * How many did we discover purely thanks to the WHOIS + redirect investigation?
@@ -44,8 +44,6 @@ Actual Location Counts:
 | Claimed: UK                     | 2     | @IvermectinRx (UK), @BIvermectinUK (implied via name)                                            |
 | Verified Among Frauds           | 10    | @getivermectins, @IvermectinShop, @skymeds_store, @medicine_kart, @Ivermectin_Dose               |
 
-
-
 | Category                                                                                                                             | Number of Accounts | % of Total                          | Notes                                                                       |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------|-----------------------------------------------------------------------------|
 | Total accounts                                                                                                                       | 99                 | 100%                                |                                                                             |
@@ -54,14 +52,14 @@ Actual Location Counts:
 | Actually based in India (either twitter_Location = India or WHOIS = IN or both)                                            | 71                 | 72%                                 | This is the true operational base for the vast majority                     |
 
 
-### Impact of fraudulent accounts
+#### Impact of fraudulent accounts
 | Metric                        | All Accounts (99) | Fraudulent US-Claimers (46) | Non-Fraud (53) | Verified Accounts (28)  |
 |-------------------------------|-------------------|-----------------------------|----------------|-------------------------|
 | Total Followers               | ~170,000          | ~140,000 (82%)              | ~30,000        | ~110,000 (65% of total) |
 | Average Followers per Account | 1,717             | 3,043                       | 567            | 3,929                   |
 | Median Followers              | 97                | 157                         | 81             | 2,002                   |
 
-### Top 5 misinformation accounts
+###$ Top 5 misinformation accounts
 * @skymeds_store (43k followers)
 * @_Ivermectincure (16k)
 * @Ivermectin_net (13k)
@@ -70,5 +68,7 @@ Actual Location Counts:
 
 
 ## Limitations
-* This work used a convenience sample of n=99 sites. Would be more comprehensive if expanded.
-* Some sites that are based in the US could conceivably employ social media teams based in India, potentially providing a benign explanation
+* I used a convenience sample of n=99 sites. Would be more comprehensive if expanded.
+* I have been an outspoken critic of ivermectin as a cancer/covid miracle cure. Thus the search was potentially limited by accounts that have blocked me. A more comprehensive search using a burner account might identify more accounts.
+* Some sites that are based in the US could conceivably employ social media teams based in India, potentially providing a benign explanation. (Unlikely)
+* 
